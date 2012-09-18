@@ -1,3 +1,4 @@
+<meta property="og:image" content="http://tobystereo.com/img/matedor_logo.png"/>
 <img src="http://tobystereo.com/img/matedor_logo.png" alt="Matédor — Open Mate Syrup">
 
 Recipe for Matédor — Open Mate Syrup
