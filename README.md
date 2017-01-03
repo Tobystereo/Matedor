@@ -8,10 +8,22 @@ Initiatives like <a href="http://www.hackpittsburgh.org/brewing-open-mate-soda">
 
 <h2>Ingredients:</h2>
 Yields: 4 cups of syrup<br/>
+<table>
+<tr>
+<td>
 · water 4 cups<br/>
-· 226g / .5lb Yerba Mate Loose leaf tea<br/>
+· .5lb Yerba Mate Loose leaf tea<br/>
 · 4 cups raw sugar<br/>
 · 3 tbsp lemon juice<br/>
+</td>
+<td>
+· 1 l water<br/>
+· 225g Yerba Mate Loose leaf tea<br/>
+· 900g raw sugar<br/>
+· 3 tbsp lemon juice<br/>
+</td>
+</tr>
+</table>
 <br/>
 <h2>Instructions</h2>
 · cook tea for 10 minutes without boiling<br/>
